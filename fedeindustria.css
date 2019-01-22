@@ -1,0 +1,38 @@
+
+.contexto {
+	display: grid;
+	grid-template-columns: 40px 50px auto 50px 40px;
+	grid-template-rows: auto 100px auto;
+	height: 95vh;
+}
+
+
+.item3 {
+	grid-column-start: 3;
+	grid-column-end: 3;
+	grid-row-start: 2;
+	grid-row-end: 2;
+	text-align: center;
+}
+
+.profile-link {
+  display: inline-block;
+  padding: 1em;
+  width: 48em;
+  max-width: 80%;
+}
+
+.profile-pic {
+  width: 100%;
+  height: auto;
+  -webkit-filter: url(#monochrome);
+  filter:  url(#monochrome);
+}
+
+.defs-only {
+  position: absolute;
+  height: 0; width: 0;
+  overflow: none;
+  left: -100%;
+}
+
