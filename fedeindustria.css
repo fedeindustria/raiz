@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
-@media handheld, only screen and (max-width: 400px) {
+@media only screen and (max-width: 560px) {
 
 	.contexto{
 		grid-template-columns: 55px 56px 12px 10px;
@@ -94,7 +94,7 @@ opcion {
 	color: #DCDCDC;
 }
 
-@media handheld, only screen and (min-width: 401px) {
+@media only screen and (min-width: 561px) {
 
 	.contexto{
 		grid-template-columns: 55px 56px 12px 430px;
