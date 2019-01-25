@@ -1,0 +1,13 @@
+title: Fedeindustrias
+description: >- 
+  Fedeindustrias
+
+baseurl: ""
+
+url: "https://fedeindustria.com" 
+
+markdown: kramdown
+# theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
