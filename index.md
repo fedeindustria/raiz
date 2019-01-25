@@ -8,7 +8,7 @@ layout: default
         <div class="col-12 text-center col-sm-auto mr-sm-2 mb-4 mb-sm-0">
             <img src="{{ "/assets/logo-simbolo.png" | relative_url }}" class="img-fluid logo-isotipo" alt="isologo">
         </div>
-        <div class="col-12 text-center col-sm mr-2 d-flex justify-content-center d-sm-block">
+        <div class="col-12 text-center text-sm-left col-sm mr-2 d-flex justify-content-center d-sm-block">
           <div class="d-none d-sm-block">
                 <img src="{{ "/assets/logo-texto.png" | relative_url }}" class="img-fluid logo-texto mb-sm-1" alt="texto">
             </div>
