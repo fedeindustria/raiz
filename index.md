@@ -14,18 +14,6 @@ layout: default
             </div>
             <ul class="nav flex-column flex-sm-row font-weight-bold text-left">
               <li class="nav-item">
-                <a class="nav-link p-0 pr-sm-2 font-size-large font-size-sm-normal" href="#">[ Código</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link p-0 px-sm-2 font-size-large font-size-sm-normal text-black-50 disabled" href="#">[ Aportes</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link p-0 px-sm-2 font-size-large font-size-sm-normal text-black-50 disabled" href="#">[ Proyectos</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link p-0 px-sm-2 font-size-large font-size-sm-normal text-black-50 disabled" href="#">[ Reseñas</a>
-              </li>
-              <li class="nav-item">
                 <a class="nav-link p-0 pl-sm-2 font-size-large font-size-sm-normal text-black-50 disabled" href="#">[ Mercado</a>
               </li>
             </ul>
