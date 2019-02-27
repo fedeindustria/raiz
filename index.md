@@ -83,6 +83,3 @@ layout: default
   </div>
 
 </div>
-
-
-{% endblock %}
