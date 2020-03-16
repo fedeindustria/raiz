@@ -4,7 +4,7 @@ description: >-
 
 baseurl: ""
 
-url: "https://sucre.fedeindustria.com" 
+url: "https://fedeindustria.com" 
 
 markdown: kramdown
 # theme: minima
