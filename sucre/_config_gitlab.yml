@@ -2,9 +2,9 @@ title: Sucre
 description: >-
   Fedeindustria
 
-baseurl: "fedeindustria"
+baseurl: ""
 
-url: "https://fedeindustria.com/sucre" 
+url: "" 
 
 markdown: kramdown
 # theme: minima
